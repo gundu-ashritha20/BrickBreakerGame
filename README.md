@@ -2,7 +2,7 @@
 
 A classic Brick Breaker (Breakout) arcade-style game built using [Your Language/Framework]. Break all the bricks using a paddle and bouncing ball — but don't let the ball fall!
 
-![Brick Breaker screenshot](screenshot.png)
+![Brick Breaker Screenshot](Screenshot.png)
 
 ---
 
